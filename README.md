@@ -6,12 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/erencosknn14" target="blank"><img src="https://img.shields.io/twitter/follow/erencosknn14?logo=twitter&style=for-the-badge" alt="erencosknn14" /></a> </p>
 
-- 🔭 I’m currently working on **Bionluk**
+
 
 - 🌱 I’m currently learning **React.js,ReactNative**
 
-- 📫 How to reach me **erencoskunoffical@gmail.com**
+- 💬 Ask me about **ReactNative,TypeScript,JavaScript**
 
+- 📫 How to reach me **erencoskunoffical@gmail.com**
 
 
 
