@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js,ReactNative**
+- 🌱 I’m currently learning **Python(ML,NLP)**
 
 - 💬 Ask me about **ReactNative,TypeScript,JavaScript**
 
