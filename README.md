@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python(ML,NLP)**
 
-- 💬 Ask me about **ReactNative,TypeScript,JavaScript**
+- 💬 Ask me about **Python,TypeScript,JavaScript**
 
 - 📫 How to reach me **erencoskunoffical@gmail.com**
 
