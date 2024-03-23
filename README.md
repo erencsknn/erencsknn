@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Python(ML,NLP)**
+- 🌱 I’m currently learning **Python(ML,NLP,Deep Learning)**
 
-- 💬 Ask me about **Python,TypeScript,JavaScript**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **erencoskunoffical@gmail.com**
 
